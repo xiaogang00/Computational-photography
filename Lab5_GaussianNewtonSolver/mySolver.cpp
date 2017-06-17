@@ -1,10 +1,4 @@
-//
-//  mySolver.cpp
-//  lab5
-//
-//  Created by DarkTango on 4/26/15.
-//  Copyright (c) 2015 DarkTango. All rights reserved.
-//
+
 
 #include "mySolver.h"
 void ellipsoid::readDataFromFile(const std::string filename){

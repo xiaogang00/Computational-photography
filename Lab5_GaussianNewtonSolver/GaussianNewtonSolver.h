@@ -1,10 +1,3 @@
-//
-//  GaussianNewtonSolver.h
-//  lab5
-//
-//  Created by DarkTango on 4/25/15.
-//  Copyright (c) 2015 DarkTango. All rights reserved.
-//
 
 #ifndef HW3_GN_34804D67
 #define HW3_GN_34804D67

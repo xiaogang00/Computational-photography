@@ -1,10 +1,4 @@
-//
-//  mySolver.h
-//  lab5
-//
-//  Created by DarkTango on 4/26/15.
-//  Copyright (c) 2015 DarkTango. All rights reserved.
-//
+
 
 #ifndef __lab5__mySolver__
 #define __lab5__mySolver__
