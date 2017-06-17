@@ -1,0 +1,14 @@
+#!/bin/csh -f
+
+#put in path for color2gray here
+set c2g = /Users/gooch/Research/Color2Grey/Code/C2G_commandline/simple_source/color2gray
+
+c2g $1 $2 $3 2
+c2g $1 $2 $3 4
+c2g $1 $2 $3 8
+c2g $1 $2 $3 16
+c2g $1 $2 $3 32
+c2g $1 $2 $3 64
+c2g $1 $2 $3 128
+c2g $1 $2 $3
+
