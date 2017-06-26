@@ -7,3 +7,4 @@ This is the course when I taken in the third year of my college life.
 * Lab6: this project is aimed at the panoramic stitching of two images or more images. I first transform the image coordinates of plane into cylindrical coordinates. And then I compute the feature and complete the feature matching. At last I used the relationship of matching to complete the panorama. Transfrom the cylindrical coordinates back into the plane coordinates.
 * Lab7: this project is aimed at implement the method proposed by "Image Completion with Structure
   Propagation", by J. Sun, L. Yuan, J. Jia. 
+* Design Lab is a project which require us to design a innovative work to solve some problem. I did design a metric of attack verification code using the method of image processing such as chain code and other useful representation. The work is completed by first character segmentation，then image preprocessing and then design a deep learning metric to recognize the verification code.
